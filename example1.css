@@ -1,0 +1,32 @@
+h1 {
+    color: purple;
+    text-align: center;
+    font-family:  sans-serif;
+} 
+
+#definition {
+    color: green;
+}
+
+.emphasize {
+    background-color: #ffffcc;
+    text-align: center;
+}
+
+#information {
+    border: 2px solid black;
+}
+p {
+    text-align: center;
+}
+body{
+    background-color: #00ffff;
+}
+
+a {
+    margin-left: 1em;
+}
+#formcolor{
+    background-color: green;
+    border: 10px red solid;
+}
